@@ -38,6 +38,7 @@
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" />
+  <project path="device/meizu/m030" name="CyanogenMod/android_device_meizu_mx" />
   <project path="docs/source.android.com" name="CyanogenMod/android_docs_source.android.com" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" />
   <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" />
